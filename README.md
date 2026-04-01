@@ -36,5 +36,6 @@ I’m eager to grow with your team and contribute to your projects! Reach out to
 
 ### Socials
 
+<a href="http://www.github.com/MaxLitvinov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxLitvinov&stroke=6366f1&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
 
